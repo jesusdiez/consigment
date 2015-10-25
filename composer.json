@@ -1,5 +1,5 @@
 {
-    "name": "jesusdiez/remesas",
+    "name": "jesusdiez/consigment",
     "description": "Bank Consigment management",
     "require": {
         "symfony/yaml": "^2.7"
@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {"Consigment\\": "src/"}
-    }
+    },
     "authors": [
         {
             "name": "Jesus Diez",
