@@ -1,0 +1,19 @@
+{
+    "name": "jesusdiez/remesas",
+    "description": "Bank Consigment management",
+    "require": {
+        "symfony/yaml": "^2.7"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {"Consigment\\": "src/"}
+    }
+    "authors": [
+        {
+            "name": "Jesus Diez",
+            "email": "jesus@jesusdiez.com"
+        }
+    ]
+}
